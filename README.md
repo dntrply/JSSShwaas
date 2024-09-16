@@ -1,5 +1,15 @@
 # Welcome to your Expo app 👋
 
+## Piyush ##
+## JSShwaas is an attempte to port 
+the app [shwaas-android](https://github.com/SamanvayOrg/shwaas-android)
+
+The attempt is to port using
+* Expo
+* Redux toolkit
+* Expo localization
+* Expo navigation / routing
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
